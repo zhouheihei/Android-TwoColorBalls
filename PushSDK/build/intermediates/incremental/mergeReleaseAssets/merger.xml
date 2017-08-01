@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/newhome/nosleep/AndroidStudioProjects/TwoColorBall/PushSDK/assets"/><source path="/newhome/nosleep/AndroidStudioProjects/TwoColorBall/PushSDK/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/newhome/nosleep/AndroidStudioProjects/TwoColorBall/PushSDK/build-types/release/assets"/></dataSet></merger>

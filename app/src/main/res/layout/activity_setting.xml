@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    android:fitsSystemWindows="true"
+    tools:context="app.nosleep.com.twocolorball.SettingActivity"
+    >
+    <TextView
+        android:id="@+id/setting_pullbug"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#72101010"
+        android:text="反 馈"
+        android:textColor="@color/colorMainText"
+        android:textSize="18dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:gravity="center"
+        android:padding="10dp"
+    />
+    <TextView
+        android:id="@+id/setting_about"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#72101010"
+        android:text="关 于"
+        android:textColor="@color/colorMainText"
+        android:textSize="18dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:layout_below="@id/setting_pullbug"
+        android:gravity="center"
+        android:padding="10dp"
+    />
+</RelativeLayout>

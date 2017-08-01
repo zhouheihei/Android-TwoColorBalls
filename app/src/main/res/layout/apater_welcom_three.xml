@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/apater_three_welcom"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#2b2a2a"
+    >
+    <TextView
+        android:id="@+id/apater_text_three"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:textColor="@android:color/white"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        android:text="@string/welcom_three_l1"
+    />
+    <ImageView
+        android:id="@+id/apater_img_three"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="visible"
+        android:src="@mipmap/welcomthree"
+        android:layout_below="@id/apater_text_three"
+        android:layout_marginTop="10dp"
+    />
+
+</RelativeLayout>

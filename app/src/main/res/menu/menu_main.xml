@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="app.nosleep.com.twocolorball.MainActivity">
+    <!--<item-->
+        <!--android:id="@+id/action_settings"-->
+        <!--android:orderInCategory="100"-->
+        <!--android:title="@string/action_settings"-->
+        <!--app:showAsAction="never"/>-->
+    <item
+        android:id="@+id/toolar_save"
+        android:orderInCategory="90"
+        android:title="保存"
+        android:icon="@mipmap/settings_32"
+        app:showAsAction="ifRoom" />
+</menu>

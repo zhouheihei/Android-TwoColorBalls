@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">记彩双色球开奖结果</string>
+    <string name="app_version">V0.7</string>
+    <string name="action_settings">设置</string>
+    <string name="title_activity_add">记录</string>
+    <string name="title_activity_about">关于</string>
+    <string name="title_activity_pullbug">反馈</string>
+    <string name="sycn_data_url">http://baidu.lecai.com/lottery/draw/list/50/?agentId=5595</string>
+    <string name="new_sycn_data_url">http://baidu.lecai.com/lottery/draw/list/50?type=range &amp;start=2017050 &amp;end=2017060</string>
+    <string name="SERVERURL">http://47.92.142.175:8282/nosleep/app/v1/msg/sendmail</string>
+    <string name="sycn_baidu_data_url">http://www.baidu.com/s?wd=双色球</string>
+
+
+    <string name="welcom_one_l1">开奖号码,中奖金额,简洁高效！</string>
+    <string name="welcom_two_l1">历史购买记录，随时查看！</string>
+    <string name="welcom_three_l1">买完双色球彩票别忘了，记一记！</string>
+    <string name="welcom_one_l4">反馈</string>
+</resources>
