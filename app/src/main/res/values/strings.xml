@@ -7,7 +7,7 @@
     <string name="title_activity_pullbug">反馈</string>
     <string name="sycn_data_url">http://baidu.lecai.com/lottery/draw/list/50/?agentId=5595</string>
     <string name="new_sycn_data_url">http://baidu.lecai.com/lottery/draw/list/50?type=range &amp;start=2017050 &amp;end=2017060</string>
-    <string name="SERVERURL">http://47.92.142.175:8282/nosleep/app/v1/msg/sendmail</string>
+   
     <string name="sycn_baidu_data_url">http://www.baidu.com/s?wd=双色球</string>
 
 
