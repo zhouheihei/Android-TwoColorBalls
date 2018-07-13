@@ -69,11 +69,11 @@
                   android:label="@string/title_activity_about">
         </activity>
 
-        <meta-data android:value="5853a0b27f2c7466af0010c5" android:name="UMENG_APPKEY"/>
+        <meta-data android:value="" android:name="UMENG_APPKEY"/>
         <meta-data android:value="twocolorball" android:name="UMENG_CHANNEL"/>
         <meta-data
             android:name="UMENG_MESSAGE_SECRET"
-            android:value="3971cf47763283644a3d0a1b7bb8d7ea">
+            android:value="">
         </meta-data>
     </application>
 
